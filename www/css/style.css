@@ -377,3 +377,28 @@ ul.wakeup-list li{
     z-index: 2;
     padding: 10px;
 }
+.ccd .coach_button{
+	z-index: 2;
+    bottom: 15px;
+    width: 70%;
+    right: 16px;
+    height: 50px;
+    margin:0 auto;
+    border-radius: 20px;
+    background: #ff6600;
+    padding-top: 15px;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0, 0.12), 0 2px 4px rgba(0,0,0, 0.24);
+}
+.img_dash{
+	margin-top: -25%;
+	border-radius: 5px;
+}
+.icon-edit-hover-small{
+	position: absolute;
+	color: #fff;
+	margin-left: -15px;
+    margin-top: 15px;
+}
